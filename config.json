@@ -545,6 +545,16 @@
       "name": "TV-七七影视",
       "is_adult": false
     },
+    "hnzy": {
+      "api": "https://hnzyapi.com/api.php/provide/vod",
+      "name": "TV-火鸟资源",
+      "is_adult": false
+    },
+    "ykzy": {
+      "api": "https://api.yongjiuzy.cc/provide/vod",
+      "name": "TV-永久资源",
+      "is_adult": false
+    },
     "jianan": {
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
       "name": "TV-建安资源",
