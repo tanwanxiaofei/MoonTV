@@ -532,7 +532,7 @@
     },
     "iqiyizyapi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "iqiyi资源",
+      "name": "TV-iqiyi资源",
       "is_adult": false
     },
     "xxibaozyw": {
